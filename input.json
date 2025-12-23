@@ -1,0 +1,14 @@
+[
+  {
+    "repo_id": "pentagoniac/SEMIKONG-70B",
+    "repo_type": "model",
+    "endpoint": "huggingface",
+    "description": "",
+    "tags": {
+      "domain": ["eda"],
+      "task": [],
+      "license": ["apache-2.0"],
+      "language": [""]
+    }
+  }
+]
