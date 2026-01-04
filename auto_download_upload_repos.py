@@ -197,6 +197,10 @@ class RepoUploader:
         elif endpoint.lower() == "modelscope":
             try:
                 ms_snapshot_download(repo_id=repo_id, repo_type=repo_type, local_dir=local_path)
+                # 删除.mv和.msc文件
+                for file in os.listdir(local_path):
+                    if file.endswith((".mv", ".msc")):
+                        os.remove(os.path.join(local_path, file))
                 return True
             except Exception as e:
                 logger.error(f"modelscope_数据下载出错: {e}")
