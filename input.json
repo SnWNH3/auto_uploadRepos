@@ -1,12 +1,12 @@
 [
   {
-    "repo_id": "",
-    "repo_type": "model",
-    "endpoint": "huggingface",
+    "repo_id": "Salesforce/UniDoc-Bench",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
     "description": "",
     "tags": {
-      "domain": ["eda"],
-      "task": [],
+      "domain": ["通用数据"],
+      "task": ["阅读理解"],
       "license": ["apache-2.0"],
       "language": [""]
     }
