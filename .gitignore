@@ -3,4 +3,4 @@ input.json
 output.txt
 model/
 code/
-vreate_inputjson.py
+create_inputjson.py
