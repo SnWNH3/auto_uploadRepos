@@ -31,7 +31,7 @@ class RepoUploader:
         self.all_tags = self.fetch_allTags()
         self.all_repoIDs = self.fetch_allRepoIDs()
 
-    def log_message(self, msg: str, write_time: bool = False):
+    def log_message(self, msg: str):
         with open(self.output_file, "a", encoding="utf-8") as f:
             now = datetime.now().strftime("%m-%d %H:%M")
             timeMsg = f"[{now}] {msg}"
@@ -180,7 +180,7 @@ class RepoUploader:
             self.log_message(f"添加tags失败 '{owner}/{repo_name}'. Error:{msg}")
 
     def download_repo(self, repo_id, repo_type, local_path, endpoint):
-        self.log_message(f"数据下载中",write_time=True)
+        self.log_message(f"数据下载中")
         if endpoint.lower() == "huggingface":
             hf_snapshot_download(repo_id=repo_id, repo_type=repo_type, local_dir=local_path) 
 
@@ -205,7 +205,7 @@ class RepoUploader:
             logger.eror(f"endpoint未被定义")
 
     def init_gitFolder(self, local_path):
-        self.log_message(f"仓库初始化", write_time=True)
+        self.log_message(f"仓库初始化")
         # git_folder_path = os.path.join(local_path, '.git')
         # if os.path.exists(git_folder_path):
         #     shutil.rmtree(git_folder_path)
@@ -235,7 +235,7 @@ class RepoUploader:
         _exec('git commit -m "auto init with lfs"')
         
     def upload_repo(self, repo_id, repo_type, token):
-        self.log_message(f"仓库上传中", write_time=True)
+        self.log_message(f"仓库上传中")
         # 首先获取远程仓库的url
         headers = {"Authorization": f"Bearer {token}"}
         fetch_repoAPI = f"/api/git/repos/{repo_type}/{repo_id}/fetchRepoDetail"
@@ -264,7 +264,7 @@ class RepoUploader:
             repo_id, repo_type, repo_license, repo_desc, tags = repo_info["repo_id"], repo_info["repo_type"], repo_info["tags"]["license"][0], repo_info["description"],  repo_info["tags"]
             owner, repo_name = repo_id.split('/', 1)
             local_path = join(self.script_dir,repo_type,owner,repo_name)
-            self.log_message(f"====开始处理[{repo_id}]====", write_time=True)
+            self.log_message(f"====开始处理[{repo_id}]====")
             try:
                 self.register_user(owner)                                                            # 1.用户注册
                 token = self.get_token(owner)                                                        # 2.登录
