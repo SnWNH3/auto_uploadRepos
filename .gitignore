@@ -1,4 +1,5 @@
 dataset/
+input.json
 output.txt
 model/
 code/
