@@ -202,7 +202,7 @@ class RepoUploader:
                 self.log_message(f"本地仓库不存在: {local_path}")
 
         else:
-            logger.eror(f"endpoint未被定义")
+            self.log_message(f"endpoint未被定义")
 
     def init_gitFolder(self, local_path):
         self.log_message(f"仓库初始化")
