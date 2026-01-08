@@ -103,6 +103,7 @@ class RepoUploader:
             self.log_message(f"用户 '{username}' 创建失败: {msg}")
 
     def get_token(self, username):
+        
         login_data = {
             "username": username,
             "password": self.default_password,
@@ -277,7 +278,7 @@ class RepoUploader:
             except Exception as e:
                 self.log_message(f"[{repo_id}]上传出错")
                 self.uploadFail_repos.append(repo_id)
-        self.log_message(f">>>>上传失败的仓库列表: {self.uploadFail_repos}<<<<")
+        self.log_message(f">>>>>>>>>>>>>>>>上传失败的仓库列表: {self.uploadFail_repos}<<<<<<<<<<<<<<<<<<<<<<<<<<")
 
         
 if __name__ == "__main__":
