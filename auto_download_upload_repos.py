@@ -1,6 +1,4 @@
 import os
-os.environ['HF_ENDPOINT'] = "https://hf-mirror.com"
-
 from os.path import join
 import json
 import subprocess
@@ -183,7 +181,8 @@ class RepoUploader:
     def download_repo(self, repo_id, repo_type, local_path, endpoint):
         self.log_message(f"数据下载中")
         if endpoint.lower() == "huggingface":
-            hf_snapshot_download(repo_id=repo_id, repo_type=repo_type, local_dir=local_path) 
+            # hf_snapshot_download(repo_id=repo_id, repo_type=repo_type, local_dir=local_path) 
+            hf_snapshot_download(repo_id=repo_id, repo_type=repo_type, local_dir=local_path,endpoint="https://hf-mirror.com") 
 
         elif endpoint.lower() == "modelscope":
             ms_snapshot_download(repo_id=repo_id, repo_type=repo_type, local_dir=local_path)
@@ -204,7 +203,7 @@ class RepoUploader:
 
         else:
             self.log_message(f"endpoint未被定义")
-
+        self.log_message(f"数据下载完成")
     def init_gitFolder(self, local_path):
         self.log_message(f"仓库初始化")
         # git_folder_path = os.path.join(local_path, '.git')
@@ -276,7 +275,7 @@ class RepoUploader:
                 self.upload_repo(repo_id, repo_type, token)                                          # 7.上传
                 self.log_message(f"[{repo_id}]上传成功")
             except Exception as e:
-                self.log_message(f"[{repo_id}]上传出错")
+                self.log_message(f"{repo_id}上传出错{e}")
                 self.uploadFail_repos.append(repo_id)
         self.log_message(f">>>>>>>>>>>>>>>>上传失败的仓库列表: {self.uploadFail_repos}<<<<<<<<<<<<<<<<<<<<<<<<<<")
 
