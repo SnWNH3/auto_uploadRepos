@@ -6,6 +6,7 @@ import logging
 import requests
 import git
 import shutil
+import stat
 from pathlib import Path
 from typing import Optional, Dict
 from huggingface_hub import snapshot_download as hf_snapshot_download
@@ -192,7 +193,7 @@ class RepoUploader:
                     os.remove(os.path.join(local_path, file))
             
         elif endpoint.lower() == "github":
-            repo_url = "https://github.com/"+repo_id+".git"
+            repo_url = "git@github.com:"+repo_id+".git"
             git.Repo.clone_from(repo_url, local_path)
             
         elif endpoint.lower() == "localdownload":
@@ -206,9 +207,12 @@ class RepoUploader:
         self.log_message(f"数据下载完成")
     def init_gitFolder(self, local_path):
         self.log_message(f"仓库初始化")
-        # git_folder_path = os.path.join(local_path, '.git')
-        # if os.path.exists(git_folder_path):
-        #     shutil.rmtree(git_folder_path)
+        git_folder_path = os.path.join(local_path, '.git')
+        def readonly_handler(func, path, exc_info):
+            os.chmod(path, stat.S_IWUSR)
+            func(path)
+        if os.path.exists(git_folder_path):
+            shutil.rmtree(git_folder_path, onexc= readonly_handler)
         
         # 把>10MB的大文件纳入LFS
         local_path = Path(local_path).resolve()
