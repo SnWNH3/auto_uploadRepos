@@ -28,7 +28,7 @@ class RepoUploader:
 
         self.token = self.get_token("SnWNH3")
         self.all_tags = self.fetch_allTags()
-        self.all_repoIDs = self.fetch_allRepoIDs()
+        # self.all_repoIDs = self.fetch_allRepoIDs()
 
     def log_message(self, msg: str):
         with open(self.output_file, "a", encoding="utf-8") as f:
@@ -183,7 +183,7 @@ class RepoUploader:
         self.log_message(f"数据下载中")
         if endpoint.lower() == "huggingface":
             # hf_snapshot_download(repo_id=repo_id, repo_type=repo_type, local_dir=local_path) 
-            hf_snapshot_download(repo_id=repo_id, repo_type=repo_type, local_dir=local_path,endpoint="https://hf-mirror.com") 
+            hf_snapshot_download(repo_id=repo_id, repo_type=repo_type, local_dir=local_path, endpoint="https://hf-mirror.com") 
 
         elif endpoint.lower() == "modelscope":
             ms_snapshot_download(repo_id=repo_id, repo_type=repo_type, local_dir=local_path)
@@ -205,6 +205,7 @@ class RepoUploader:
         else:
             self.log_message(f"endpoint未被定义")
         self.log_message(f"数据下载完成")
+    
     def init_gitFolder(self, local_path):
         self.log_message(f"仓库初始化")
         git_folder_path = os.path.join(local_path, '.git')
