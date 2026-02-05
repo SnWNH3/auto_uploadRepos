@@ -4,3 +4,5 @@ output.txt
 model/
 code/
 create_inputjson.py
+modelscope_all_data.json
+

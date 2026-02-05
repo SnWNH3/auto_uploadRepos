@@ -25,7 +25,7 @@ class RepoUploader:
         self.output_file = join(self.script_dir, "output.txt")
         self.default_password = "Password@321" # 老用户password@321
         self.uploadFail_repos = []
-
+        self.uploadSuccess_repos = []
         self.token = self.get_token("SnWNH3")
         self.all_tags = self.fetch_allTags()
         # self.all_repoIDs = self.fetch_allRepoIDs()
@@ -95,11 +95,11 @@ class RepoUploader:
         msg = result.get("msg", "")
 
         if code == 200:
-            self.log_message(f"用户'{username}'创建成功")
+            self.log_message(f"-1 用户注册成功")
         elif code == 500 and "注册账号已存在" in msg:
-            self.log_message(f"用户'{username}'已存在,跳过创建")
+            self.log_message(f"-1 用户注册跳过，已存在")
         else:
-            self.log_message(f"用户 '{username}' 创建失败: {msg}")
+            self.log_message(f"-1 用户注册失败: {msg}")
 
     def get_token(self, username):
         
@@ -114,15 +114,16 @@ class RepoUploader:
 
         if code == 200:
             if not username == "SnWNH3":
-                self.log_message(f"登录成功")
+                self.log_message(f"-2 登录成功")
         elif code == 500 and "password error" in msg:
-            self.log_message(f"用户'{username}'密码错误")
+            self.log_message(f"-2 登录失败，密码错误")
         else:
-            self.log_message(f"用户'{username}'登录失败: {msg}")
+            self.log_message(f"-2 登录失败: {msg}")
 
         return result.get('token')
         
     def create_repo(self, owner, repo_name, repo_type, repo_license, repo_desc, token):
+
         repo_data = {
                 "repoOwner": owner,
                 "repoName": repo_name,
@@ -132,23 +133,29 @@ class RepoUploader:
                 "repoType": repo_type,
                 "private": False}
         headers = {"Authorization": f"Bearer {token}"}
-        
+
+        self.repoAlreadyExists = False
         result = self._make_request("POST", "/api/git/repos/createRepository", repo_data, headers)
         code = result.get("code", 0)
         msg = result.get("msg", "")
 
         if code == 200:
-            self.log_message(f"仓库'{owner}/{repo_name}'创建成功.")
+            self.log_message(f"-3 仓库创建成功.")
         elif code == 500 and "已存在同名仓库" in msg:
-            self.log_message(f"仓库'{owner}/{repo_name}'已存在，跳过创建")
+            self.log_message(f"-3 仓库创建跳过，已存在")
+            self.repoAlreadyExists = True
         else:
-            self.log_message(f"仓库'{owner}/{repo_name}'创建失败：{msg}")
+            self.log_message(f"-3 仓库创建失败：{msg}")
         
     def add_tags(self, owner, repo_name, tags, repo_type, token):
+        if self.repoAlreadyExists == True:
+            self.log_message(f"-4 标签更新跳过，仓库已存在")
+            return
         headers = {"Authorization": f"Bearer {token}"}
         now = datetime.now(timezone.utc)
         formatted_time = now.strftime("%Y-%m-%dT%H:%M:%S.%fZ")
         flat_tags = []
+        # input.json中tags分为领域、任务、许可证、语言四个类别，每个类别是一个列表["Verilog","代码生成"]
         for category, tag_names in tags.items():
             for tag_name in tag_names:
                 for tag in self.all_tags:
@@ -175,12 +182,12 @@ class RepoUploader:
         code = result.get("code", 0)
         msg = result.get("msg", 0)
         if code == 200:
-            self.log_message(f"tags添加成功")
+            self.log_message(f"-4 标签更新成功")
         else:
-            self.log_message(f"添加tags失败 '{owner}/{repo_name}'. Error:{msg}")
+            self.log_message(f"-4 标签更新失败，{msg}")
 
     def download_repo(self, repo_id, repo_type, local_path, endpoint):
-        self.log_message(f"数据下载中")
+        self.log_message(f"-5 数据下载开始")
         if endpoint.lower() == "huggingface":
             # hf_snapshot_download(repo_id=repo_id, repo_type=repo_type, local_dir=local_path) 
             hf_snapshot_download(repo_id=repo_id, repo_type=repo_type, local_dir=local_path, endpoint="https://hf-mirror.com") 
@@ -196,18 +203,9 @@ class RepoUploader:
             repo_url = "git@github.com:"+repo_id+".git"
             git.Repo.clone_from(repo_url, local_path)
             
-        elif endpoint.lower() == "localdownload":
-            if os.path.exists(local_path):
-                self.log_message(f"本地仓库存在: {local_path}")
-            else:
-                self.log_message(f"本地仓库不存在: {local_path}")
-
-        else:
-            self.log_message(f"endpoint未被定义")
-        self.log_message(f"数据下载完成")
+        self.log_message(f"-5 数据下载完成")
     
     def init_gitFolder(self, local_path):
-        self.log_message(f"仓库初始化")
         git_folder_path = os.path.join(local_path, '.git')
         def readonly_handler(func, path, exc_info):
             os.chmod(path, stat.S_IWUSR)
@@ -238,9 +236,10 @@ class RepoUploader:
             _exec("git add .gitattributes")
         _exec("git add .")
         _exec('git commit -m "auto init with lfs"')
+        self.log_message(f"-6 仓库初始化完成")
+
         
     def upload_repo(self, repo_id, repo_type, token):
-        self.log_message(f"仓库上传中")
         # 首先获取远程仓库的url
         headers = {"Authorization": f"Bearer {token}"}
         fetch_repoAPI = f"/api/git/repos/{repo_type}/{repo_id}/fetchRepoDetail"
@@ -262,6 +261,8 @@ class RepoUploader:
             subprocess.run(cmd, shell=True, check=True)
         _exec(f"git remote add origin {repoURL}")
         _exec("git push -f origin main")
+        self.log_message(f"-7 仓库上传完成")
+
 
     def run(self):
         repo_list = self.get_jsonRepoList()
@@ -269,20 +270,22 @@ class RepoUploader:
             repo_id, repo_type, repo_license, repo_desc, tags = repo_info["repo_id"], repo_info["repo_type"], repo_info["tags"]["license"][0], repo_info["description"],  repo_info["tags"]
             owner, repo_name = repo_id.split('/', 1)
             local_path = join(self.script_dir,repo_type,owner,repo_name)
-            self.log_message(f"====开始处理[{repo_id}]====")
+            self.log_message(f"==============开始处理[{repo_id}]===============")
             try:
                 self.register_user(owner)                                                            # 1.用户注册
                 token = self.get_token(owner)                                                        # 2.登录
-                self.create_repo(owner, repo_name, repo_type, repo_license, repo_desc, token)        # 3.创建仓库
-                self.add_tags(owner, repo_name, tags, repo_type, token)                              # 4.更新标签
+                self.create_repo(owner, repo_name, repo_type, repo_license, repo_desc, token)        # 3.仓库创建
+                self.add_tags(owner, repo_name, tags, repo_type, token)                              # 4.标签更新
                 self.download_repo(repo_id, repo_type, local_path, repo_info["endpoint"])            # 5.下载
                 self.init_gitFolder(local_path)                                                      # 6.仓库管理
                 self.upload_repo(repo_id, repo_type, token)                                          # 7.上传
                 self.log_message(f"[{repo_id}]上传成功")
+                self.uploadSuccess_repos.append(repo_id)
             except Exception as e:
                 self.log_message(f"{repo_id}上传出错{e}")
                 self.uploadFail_repos.append(repo_id)
-        self.log_message(f">>>>>>>>>>>>>>>>上传失败的仓库列表: {self.uploadFail_repos}<<<<<<<<<<<<<<<<<<<<<<<<<<")
+        self.log_message(f">>>>>>>>>>>>>>>>上传失败的仓库列表: {self.uploadFail_repos}<<<<<<<<<<<<<<<<<<<")
+        self.log_message(f">>>>>>>>>>>>>>>>上传成功的仓库列表: {self.uploadSuccess_repos}<<<<<<<<<<<<<<<<<<<")
 
         
 if __name__ == "__main__":
