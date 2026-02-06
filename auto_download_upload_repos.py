@@ -140,7 +140,7 @@ class RepoUploader:
         msg = result.get("msg", "")
 
         if code == 200:
-            self.log_message(f"-3 仓库创建成功.")
+            self.log_message(f"-3 仓库创建成功")
         elif code == 500 and "已存在同名仓库" in msg:
             self.log_message(f"-3 仓库创建跳过，已存在")
             self.repoAlreadyExists = True
