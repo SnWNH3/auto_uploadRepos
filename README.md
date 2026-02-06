@@ -54,6 +54,9 @@
 [02-06 09:51] 上传失败的仓库列表: []
 [02-06 09:51] 上传成功的仓库列表: ['libfive/libfive']
 
+# create_inputjson.py
+测试用脚本，用于快速生成input.json
+
 
 # uploadFailRepos_reUpload.py
 从上传失败的仓库列表，重新生成待上传的json文件
