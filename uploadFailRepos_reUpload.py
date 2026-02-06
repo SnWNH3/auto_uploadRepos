@@ -1,9 +1,6 @@
 import json
 import ast
 
-# 输入是同路径下的fail.txt文件，其中记录了上传失败的repo_id列表，注意格式
-# 通过筛选，生成failed_upload_repos.json，记录了上传失败的repo_id字典
-# 重新上传时，将此文件中的内容替换input.json即可
 INPUT_JSON = "input.json"
 FAIL_LIST = "fail.txt"
 OUTPUT_JSON = "failed_upload_repos.json"

@@ -284,8 +284,9 @@ class RepoUploader:
             except Exception as e:
                 self.log_message(f"{repo_id}上传出错{e}")
                 self.uploadFail_repos.append(repo_id)
-        self.log_message(f">>>>>>>>>>>>>>>>上传失败的仓库列表: {self.uploadFail_repos}<<<<<<<<<<<<<<<<<<<")
-        self.log_message(f">>>>>>>>>>>>>>>>上传成功的仓库列表: {self.uploadSuccess_repos}<<<<<<<<<<<<<<<<<<<")
+        self.log_message(f">>>>>>>>>>>>>>>>本次运行结果<<<<<<<<<<<<<<<<<<<")
+        self.log_message(f"上传失败的仓库列表: {self.uploadFail_repos}")
+        self.log_message(f"上传成功的仓库列表: {self.uploadSuccess_repos}")
 
         
 if __name__ == "__main__":
