@@ -1,7 +1,7 @@
 import json
 
 # 配置常量
-INPUT_PATH = "modelscope_all_data.json"
+INPUT_PATH = "modelscope_repoData.json"
 OUTPUT_PATH = "input.json"
 # 100GB 对应的字节数
 SIZE_LIMIT = 100 * 1024 ** 3
