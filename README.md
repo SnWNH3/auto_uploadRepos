@@ -1,13 +1,12 @@
 # auto_download_upload_repos
 主文件 ，输入是input.json，输出是output.txt，执行如下功能
 -1 用户注册 \
--2 登录 \ 
+-2 登录 \
 -3 仓库创建 \
 -4 标签更新 \
 -5 下载 \
 -6 仓库管理 \
--7 上传 \
-
+-7 上传
 
 # input.json
 需要上传的仓库的原信息，已加入.gitignore中
