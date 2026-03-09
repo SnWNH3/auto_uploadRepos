@@ -1,0 +1,8042 @@
+[
+  {
+    "repo_id": "liyixuan2026/cobot_magic_code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Superball/code_sync_0111",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/seed_code_multiple_samples_random_scale_up_4k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/seed_code_multiple_samples_random_scale_up_4k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/seed_code_multiple_samples_random_scale_up_16k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/seed_code_multiple_samples_random_scale_up_2k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d1_code_mc_llm",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/openthoughts2_code_0.3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d1_code_mc_llm_0.3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/instruction_filtering_fasttext_seed_data_code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/DCFT-seed_code_r1_magicoder-etash_eval_03-15-25_23-33-43_9c11",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/hero_run_3_code_s11",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/seed_code_multiple_samples_gpt_verification_scale_up_4K",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d1_code_long_paragraphs_10k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/a1_code_apps_phi_annotated",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/mix_base_code_math_t_0",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/a1_code_primeintellect_real_world_swe_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b2_code_fasttext_pos_all_neg_sql_0.3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/c1_code_nod_16s_3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/e1_code_fasttext_r1_3k_eval_5554",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/openthoughts_code_0.3k_eval_2e29",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d2_code_mc_llm",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/a1_code_stackexchange_codereview",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/c1_code_10d_16s_1k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/multiple_samples_gpt_verification_seed_code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/hero_run_3_code_s19",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/code_stratos_scale_unverified_converted_with_counts",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/multiple_samples_sharpening_seed_code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/instruction_filtering_scale_up_code_base_fasttext_per_domain_1K",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/a1_code_code_contests_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/c1_code_nod_4s_3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/instruction_filtering_fasttext_seed_data_code_w_openthoughts",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b2_code_difficulty_3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/ot3_30k_code_investigation",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/a1_code_stackexchange",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/a1_code_primeintellect_stack_exchange_1744623234_eval_1331",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/code-stratos-verified-scaled-0.25",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/hero_run_3_code_s23",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/c1_code_10d_16s_3k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/instruction_filtering_scale_up_code_base_fasttext_per_domain_4K",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d1_code_load_in_phi_temp_06",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/difficulty_sorting_high_seed_code_w_openthoughts",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/c1_code_nod_1s_0.3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/herorun1_code-test_150K_250K",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b2_code_fasttext_pos_all_neg_sql_1k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b2_code_fasttext_pos_codeforces_neg_codereview_1k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/c1_code_10d_4s_3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/c1_code_0d_16s_0.3k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/stack_code_longest_science_longest_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/instruction_filtering_scale_up_code_base_askllm_1K",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b2_code_fasttext_pos_ioi_neg_sql_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/a1_code_codefeedback_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/a1_code_primeintellect_stack_exchange_1744691165_eval_1331",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d1_code_longest_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b2_code_fasttext_pos_leetcode_neg_sql_1k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/e1_code_fasttext_qwq_together_0.3k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b2_code_fasttext_pos_codeforces_neg_all_0.3k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/c1_code_10d_4s_0.3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/c1_code_0d_16s_3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/DCFT-seed_code_r1_magpie-etash_eval_03-15-25_23-33-59_9c11",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/a1_code_kodcode_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/code_longest_science_longest",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/filter_code_baseline",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d1_code_all_large_3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/a1_code_code_golf_1k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/train_fasttext_classifier_seed_code_best_sharegpt",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/c1_code_10d_4s_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b2_code_embedding_1k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/openthoughts_code_eval_2e29",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d1_code_all_0.3k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/seed_code_multiple_samples_all_scale_up_16K",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/c1_code_0d_16s_10k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b1_code_top_8_0.3k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d1_code_all_3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/a1_code_code_golf_3k_eval_2e29",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b2_code_fasttext_pos_codeforces_neg_codereview",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/instruction_filtering_scale_up_code_base_askllm_8K",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/openthoughts3_code_100k_annotated_QwQ-32B_sharegpt_eval_5554",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b2_code_length_0.3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/hero_run_3_code_s32",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/fasttext_mixing_domains_top_2_code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d1_code_mc_llm_10k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/openthoughts_3_dedup_code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d1_code_long_paragraphs_1k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/openthoughts2_code_1k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/a1_code_coder_stat_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/e1_code_ms_qwq_together",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/openthoughts3_code_30k_eval_08c7",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/openthoughts3_code_1k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b2_code_fasttext_pos_codeforces_neg_codereview_0.3k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/seed_code_multiple_samples_random_scale_up_1K",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b2_code_length_gpt4omini_10k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/hero_run_3_code_s22",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/hero_run_3_code_s9",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/c1_code_0d_4s_0.3k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b1_code_top_4_1k_eval_636d",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d2_code_gpt",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d2_code_gpt",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/b1_code_top_16_1k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/d1_code_load_in_qwq_together",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/e1_code_fasttext_r1_1k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/glaive-code-sandboxes",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "allenai/code-meta-reasoning-cleaned",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "allenai/rlvr-code-data-python-r1-format-filtered-filtered",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "allenai/code-meta-reasoning-cleaned-final",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "allenai/midtraining-OpenCodeReasoning-length-filtered",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "allenai/midtraining-OpenCodeReasoning",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "allenai/midtraining-code-reasoning",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "smolagents/hermes-function-calling-v1-formatted-code-agent",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mesolitica/chatgpt4-code-instruct",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-penitentiaire",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-collectivites-territoriales",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-minier",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-communes-nouvelle-caledonie",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-impots-annexe-i",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-action-sociale-familles",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-aviation-civile",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-cinema-image-animee",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-commande-publique",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-penal",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-pensions-militaires-invalidite-victimes-guerre",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-voirie-routiere",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-tourisme",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-environnement",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-patrimoine",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-defense",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-sport",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-disciplinaire-penal-marine-marchande",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-douanes",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-rural-peche-maritime",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-propriete-personnes-publiques",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-impots-annexe-ii",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-organisation-judiciaire",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-pensions-retraite-marins-francais-commerce-peche-plaisance",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-travail-maritime",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-impositions-biens-services",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-justice-militaire-nouveau",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-recherche",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-ports-maritimes",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-juridictions-financieres",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-rural-ancien",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-transports",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-electoral",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-postes-communications-electroniques",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-education",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-douanes-mayotte",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-impots-annexe-iii",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-procedures-civiles-execution",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-instruments-monetaires-medailles",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-consommation",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-domaine-etat",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-monetaire-financier",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-propriete-intellectuelle",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-civil",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-assurances",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-domaine-etat-collectivites-mayotte",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-fonction-publique",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-justice-administrative",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-expropriation-utilite-publique",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-route",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-forestier-nouveau",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-securite-sociale",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-relations-public-administration",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-securite-interieure",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-deontologie-architectes",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-energie",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-sante-publique",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-minier-nouveau",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-travail",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-forestier",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-communes",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-mutualite",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-entree-sejour-etrangers-droit-asile",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-impots-annexe-iv",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-urbanisme",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-legion-honneur-medaille-militaire-ordre-national-merite",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-service-national",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-justice-penale-mineurs",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-impots",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-procedure-penale",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/code-commerce",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "laion/Qwen3-32B_hero_run_4_code_32k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "laion/openthoughts-4-code-qwen3-32b-32k-annotated",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "laion/openthoughts-4-code-qwen3-32b-7k-annotated-sharegpt",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "TeichAI/grok-code-fast-1-1000x",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "0xSero/glm47-reap-calibration-code-func",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Shekswess/tiny-think-code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "nyuuzyou/jihulab-code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "nyuuzyou/gitverse-code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "nyuuzyou/moshub-code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "nyuuzyou/gitflic-code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "marin-community/open-thoughts-4-30k-code-qwen3-32b-annotated",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "TeichAI/MiniMax-M2.1-Code-SFT",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "thomas/code_bagel",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "OmniData/CodeExp",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "OmniData/CodeQA",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "wangdong20/roboflamingo-code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "m-a-p/CodeEditorBench",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "DynamicSuperb/Code-switchSpeechRecognition_NTUML2021",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "DynamicSuperb/CodeSwitchingSpeechIdentification_ASCEND",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "sichuanke/VSCodeServer-Plugins",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "VSCodeServer-Plugins",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "jsmlay/CODE_MATH_0310_unverified_code_snippet",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/PyCodeZone",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "FreedomIntelligence/Code-Alpaca-Arabic-GPT4",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "TIGER-Lab/AceCodePair-QwenCoderIns32B",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "HuggingFaceH4/code_evaluation_prompts",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "PocketDoc/Dans-Codemaxx-CodeFeedback-SingleTurn",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "PocketDoc/Dans-Codemaxx-LeetCode",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "bespokelabs/open-thoughts-code-annotations",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "google/code_x_glue_tc_text_to_code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "google/code_x_glue_cc_code_completion_line",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "google/code_x_glue_cc_code_to_code_trans",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "burtenshaw/dummy-code-quiz",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "open-r1/verifiable-coding-problems-python-10k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "open-r1/verifiable-coding-problems-python_decontaminated",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/tiny_codes",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "nex-agi/coding-eval",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "NousResearch/RLVR_Coding_Problems",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "open-r1/verifiable-coding-problems-python_decontaminated-tested",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Noct25/Chart2Code-160k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "open-r1/verifiable-coding-problems-python",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "open-r1/verifiable-coding-problems-python-10k_decontaminated",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "openmoss/case2code-data",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "smirki/Agentic-Coding-Tessa",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "PrimeIntellect/verifiable-coding-problems",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "LLM-Research/tulu-3-hard-coded",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "open-r1/verifiable-coding-problems-python_decontaminated-tested-shuffled",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "MBZUAI/Web2Code",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "nv-community/Nemotron-RL-coding-competitive_coding",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "llm-jp/wizardlm8x22b-logical-math-coding-sft-ja",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "defog/wikisql_codellama_1000",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "llm-jp/Synthetic-JP-EN-Coding-Dataset",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "AI-ModelScope/livebench_coding",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "allenai/tulu-3-hard-coded-10x",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "QuixiAI/coding-collect",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "allenai/olmo-2-hard-coded",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "bigcode/codellama-generations",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/airoboros_coding_instructions_gpt-4o-mini",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/airoboros_stage_3_coding_none_response_gpt-4o-inst_gpt_4o-mini_resp",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/airoboros_coding_dedup_test",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "mlfoundations-dev/airoboros_stage_3_coding_none_response_gpt-4o-inst_gpt_4o-mini_resp_test",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Joyboy15894/mcp_round4_coding_1020_develop7",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "smolagents/hermes-codeagent",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "smolagents/codeagent-traces",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Aratako/Synthetic-JP-Coding-Dataset-Magpie-Nemotron-4-10k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Aratako/Synthetic-JP-EN-Coding-Dataset-801k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Aratako/Synthetic-JP-EN-Coding-Dataset-801k-50k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Aratako/Synthetic-JP-EN-Coding-Dataset-Magpie-69k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "huggingface/language_codes_marianMT",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "inclusionAI/Ling-Coder-SFT",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "This dataset is part of the SFT data used for fine-tuning the Ling-Coder Lite model. It includes over 5 million samples covering more than 20 programming languages and spans various topics such as text-to-code, code execution reasoning, and code completion.",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "zlh0201/F2SBench",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "Code translation benchmark constructed in the ICML 2025 paper “Function-to-Style Guidance of LLMs for Code Translation”.",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "livecodebench/test_generation",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "livecodebench/execution-v2",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "livecodebench/submissions",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "livecodebench/execution",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "BAAI/TACO",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "OmniData/StaQC",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "roych1997/Dual_Data_Alignment",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "The official code of Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable  (NeurIPS 2025 Spotlight).",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "hcnote/Cybersecurity-Dataset",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "网络安全数据集是一个全面的网络安全相关数据集合，由新疆幻城网安科技有限公司首个开源的全网最大的网络安全数据集旨在用于训练和微调网络安全应用中的大型语言模型 (LLM)。它专注于内部网络（离线）环境，解决漏洞检测、威胁分析、代码审计和 AI 驱动的防御机制等痛点。该数据集经过精心策划，旨在支持开发本地部署的 AI 模型，例如 DeepSeek-14B 和 Qwen-Code-30B MOE，从而实现敏感数据映射、零信任架构、AI 威胁预警、智能代码安全审计、网络流量分析和 WebShell 木马检测等功能。",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "modelscope/humaneval",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "The HumanEval dataset released by OpenAI includes 164 programming problems with a function sig- nature, docstring, body, and several unit tests. They were handwritten to ensure not to be included in the training set of code generation models.",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "caoyushe/vton",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "code_share",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "AIGCworker94/BOSC_Synthetic_Image_Attribution",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "This is the official code for our paper 'BOSC: A Backdoor-based Framework for Open Set Synthetic Image Attribution' publised on TIFS'25.",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "zhaohongbo/GS-LoRA-imagenet100",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "Dataset for the work GS-LoRA in CVPR 2024, code: https://github.com/bjzhb666/GS-LoRA",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Rentuiteam/Train_datasets",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "格式是这样的:{\"prompt\": \"......\", \"code\": \"......\", \"language\": \"......\", \"test_case\": \"......\"}",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "irhawks/algorithm-det-240920",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "从DocGenome数据集中分别抽取所标注的算法块和代码块，分别制作成算法块检测数据集`alg-det-dataset`，以及代码块检测数据集`code-det-dataset`，标注格式为YOLO-HBB，可用ultralytics直接训练",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "freshlittlelemon/tele-anti-fraud",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "/root/code/ChatTTS",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "bklight999/Dataset_250305",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "This dataset includes the folllowing data: 1. CLRS (Code Version) 2. Codeforce 3. CRUX",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "rqwfwef/Crawl-5k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "Crawl-5K 是首个专注于 爬虫领域 的高质量指令数据集，旨在提升大语言模型（LLM）在爬虫任务上的代码生成、指令理解及代码补全能力。",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "ZhipuAI/humaneval-x",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "OmniData/APPS",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "OmniData/Lyra",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "sequelbox/Tachibana-QVQ",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "ZhipuAI/CC-Bench-trajectories",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "twinkle-ai/tw-leetcode",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/Pegasus-Tiny-250K",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "sequelbox/Tachibana",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "bigcode/bigcodereward",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/LAP2-K-Think-v1.a",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/LAP2-K-Think-v1.b",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/Gacrux-Tiny-1M",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "sequelbox/Tachibana-QVQ-PREVIEW",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "MiniMax/OctoCodingBench",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "AI-ModelScope/synthetic_text_to_sql",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "opencompass/humaneval",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "AI-ModelScope/ShareGPT-Chinese-English-90k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b-Logprob",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Tencent-Hunyuan/ArtifactsBenchmark",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Alibaba-DT/terminal-bench-pro",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "m-a-p/LPFQA",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "LLM-Research/xlam-function-calling-60k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "AI-ModelScope/xlam-function-calling-60k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "BAAI/InfinityMATH",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "swift/synthetic_text_to_sql",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "MiniMax/OctoBench",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Shanghai_AI_Laboratory/InteractScience",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "inclusionAI/Ling-Coder-SyntheticQA",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "This dataset is part of the synthetic data used during the pre-training of the Ling-Coder Lite model, comprising over 24 million samples.",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/Open-Omega-Forge-1M",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "inclusionAI/Ling-Coder-DPO",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "This dataset is part of the DPO data used in the post-training phase of the Ling-Coder Lite model. It consists of 250,000 samples covering various programming languages.",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/Poseidon-Reasoning-5M",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "stepfun-ai/PaCoRe-Train-8k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "evalscope/humanevalplus",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "xlangai/ubuntu_osworld",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "tencent-community/ArtifactsBenchmark",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "google-research-datasets/mbpp",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "microsoft/NextCoderDataset",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "codefuse-ai/Evol-instruction-66k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "JetBrains/git_good_bench-lite",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "AI-ModelScope/AIME25-CoT-CN",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "AI-ModelScope/leetcode-solutions-python",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Writer-Org/omniact",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/Demeter-LongCoT-6M",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "AI-ModelScope/CPRet-data",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/Turing-Reason-CoT-Mini",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "BSC-LT/CAESAR-TINY",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "gretelai/synthetic_text_to_sql",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Joyboy15894/YuLan-Mini",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "lmms-lab/EMMA-mini",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "opencsg/csg-robomaster",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "AI-ModelScope/SmallThoughts",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "bigcode/humanevalpack",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "nv-community/Nemotron-Cascade-RL-SWE",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "bigcode/bigcodebench",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "InternRobotics/MeshCoderDataset",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "InternRobotics/MeshCoderDataset",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "TuringEnterprises/CRAVE",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "neulab/tldr",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "neulab/conala",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "sleeping-ai/arxiv_metadata",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "GPUMODE/kernelbot-data",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "JetBrains/git_good_bench",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "open-thoughts/OpenThoughts-Agent-v1-SFT",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/Turing-Reason-CoT",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "SAP/diaforge-utc-r-0725",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Salesforce/xlam-function-calling-60k",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "JetBrains/git_good_bench-train",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "TIGER-Lab/VisPlotBench",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "open-thoughts/OpenThoughts-TB-dev",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "ibm-research/MermaidSeqBench",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "bigcode/autocodearena-v0",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "SWE-bench/SWE-smith-trajectories",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "microsoft/NextCoderDataset-Conversational",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/Poseidon-Reasoning-Mini-300K",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/OpenDoc-Null-6K",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "xlangai/DS-1000",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "xlangai/BRIGHT",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "TeichAI/gpt-5.2-high-reasoning-250x",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "hackaprompt/hackaprompt-dataset",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "data-agents/jupyter-agent-dataset",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "NousResearch/SWE-smith-oracle",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "bigcode/MultiPL-E-completions",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "nv-community/Nemotron-Cascade-SFT-SWE",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "suayptalha/Intelix-Dataset",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "lmms-lab/EMMA",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "fakeoss/typst_doc_qa",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "laion/openalex-metadata",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "nebius/SWE-bench-extra",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "nebius/SWE-agent-trajectories",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "openmoss/VehicleWorld",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "nebius/SWE-rebench-leaderboard",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "ai-forever/POLLUX",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "laion/NeurIPSpdf-2024",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/mergekit-configs",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "PeacefulData/HyPoradise-v0",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "AI-ModelScope/T-Eval",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/Helios-R-6M",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "evalscope/openai_humaneval",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "TIGER-Lab/SKGInstruct",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "bigcode/santacoder-fim-task",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "xlangai/ubuntu_spider2v",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "SWE-bench/SWE-smith",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "prithivMLmods/Open-Omega-Explora-2.5M",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "microsoft/FStarDataSet",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "CohereLabs/include-base-44",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "llm-jp/mbpp-ja",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "TIGER-Lab/SKGInstruct-skg-only",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Vikhrmodels/habr_qa_sbs",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "lapa-llm/openthoughts_no_think",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "microsoft/FStarDataSet-V2",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "TuringEnterprises/Turing-Open-Reasoning",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "SWE-bench/SWE-smith-py",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "SWE-bench/SWE-smith-go",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "TIGER-Lab/rStar-Critique-Data",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "lapa-llm/open-thoughts-114K-uk",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "jhu-clsp/bernice-pretrain-data",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "CohereLabs/include-lite-44",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "neulab/docprompting-conala",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "louisbrulenaudet/cgi",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "neulab/mconala",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "OmniData/CoDesc",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "Qodo/PR-Review-Bench",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "PeacefulData/HyPoradise-v1-GigaSpeech",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "THU-KEG/MM-Math-Align",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "EssentialAI/gsm8k_adv",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "EssentialAI/gsm8k-platinum_adv",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "EssentialAI/triviaqa_adv",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "EssentialAI/cruxeval_i_adv",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "EssentialAI/cruxeval_o_adv",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "MiniMax/VIBE",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "OSS-forge/PROBE",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "PatronusAI/trace-dataset",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  },
+  {
+    "repo_id": "nyuuzyou/ms-codeplex-archive",
+    "repo_type": "dataset",
+    "endpoint": "modelscope",
+    "description": "",
+    "tags": {
+      "domain": [
+        "航空软件"
+      ],
+      "task": [
+        "代码"
+      ],
+      "license": [
+        "apache-2.0"
+      ],
+      "language": [
+        ""
+      ]
+    }
+  }
+]
