@@ -26,6 +26,7 @@ class RepoUploader:
         self.default_password = "Password@321" # 老用户password@321
         self.uploadFail_repos = []
         self.uploadSuccess_repos = []
+        self.uploadSkip_repos = []
         self.token = self.get_token("SnWNH3")
         self.all_tags = self.fetch_allTags()
         # self.all_repoIDs = self.fetch_allRepoIDs()
@@ -142,15 +143,12 @@ class RepoUploader:
         if code == 200:
             self.log_message(f"-3 仓库创建成功")
         elif code == 500 and "已存在同名仓库" in msg:
-            self.log_message(f"-3 仓库创建跳过，已存在")
+            self.log_message(f"-3 仓库已存在，跳过后续步骤")
             self.repoAlreadyExists = True
         else:
             self.log_message(f"-3 仓库创建失败：{msg}")
         
     def add_tags(self, owner, repo_name, tags, repo_type, token):
-        if self.repoAlreadyExists == True:
-            self.log_message(f"-4 标签更新跳过，仓库已存在")
-            return
         headers = {"Authorization": f"Bearer {token}"}
         now = datetime.now(timezone.utc)
         formatted_time = now.strftime("%Y-%m-%dT%H:%M:%S.%fZ")
@@ -238,7 +236,6 @@ class RepoUploader:
         _exec('git commit -m "auto init with lfs"')
         self.log_message(f"-6 仓库初始化完成")
 
-        
     def upload_repo(self, repo_id, repo_type, token):
         # 首先获取远程仓库的url
         headers = {"Authorization": f"Bearer {token}"}
@@ -263,7 +260,6 @@ class RepoUploader:
         _exec("git push -f origin main")
         self.log_message(f"-7 仓库上传完成")
 
-
     def run(self):
         repo_list = self.get_jsonRepoList()
         for repo_info in repo_list:
@@ -274,8 +270,11 @@ class RepoUploader:
             try:
                 self.register_user(owner)                                                            # 1.用户注册
                 token = self.get_token(owner)                                                        # 2.登录
-                self.create_repo(owner, repo_name, repo_type, repo_license, repo_desc, token)        # 3.仓库创建
-                self.add_tags(owner, repo_name, tags, repo_type, token)                              # 4.标签更新
+                self.create_repo(owner, repo_name, repo_type, repo_license, repo_desc, token)        # 3.仓库创建，已存在则跳过后续步骤
+                if self.repoAlreadyExists == True:
+                    self.uploadSkip_repos.append(repo_id)
+                    continue
+                self.add_tags(owner, repo_name, tags, repo_type, token)                              # 4.添加标签
                 self.download_repo(repo_id, repo_type, local_path, repo_info["endpoint"])            # 5.下载
                 self.init_gitFolder(local_path)                                                      # 6.仓库管理
                 self.upload_repo(repo_id, repo_type, token)                                          # 7.上传
@@ -286,6 +285,7 @@ class RepoUploader:
                 self.uploadFail_repos.append(repo_id)
         self.log_message(f">>>>>>>>>>>>>>>>本次运行结果<<<<<<<<<<<<<<<<<<<")
         self.log_message(f"上传失败的仓库列表: {self.uploadFail_repos}")
+        self.log_message(f"重复跳过的仓库列表: {self.uploadSkip_repos}")
         self.log_message(f"上传成功的仓库列表: {self.uploadSuccess_repos}")
 
         

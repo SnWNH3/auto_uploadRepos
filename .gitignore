@@ -1,8 +1,11 @@
 dataset/
-input.json
-output.txt
 model/
 code/
+
+input.json
+output.txt
+平台资源.xlsx
+
 create_inputjson.py
 modelscope_all_data.json
 
